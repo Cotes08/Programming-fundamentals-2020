@@ -1,0 +1,13 @@
+tablas: 2
+-------------------------
+objetos: 4
+id: NUM
+denominacion: TEXT
+peso: NUM
+volumen: NUM
+-------------------------
+clientes: 4
+nombre: TEXT
+edad: NUM
+fecha: DATE
+correo: EMAIL

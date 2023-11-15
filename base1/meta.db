@@ -1,0 +1,25 @@
+tablas: 4
+-------------------------
+cosas: 5
+id: NUM
+denominacion: TEXT
+peso: NUM
+volumen: NUM
+entrega: DATE
+-------------------------
+personas: 3
+nombre: TEXT
+edad: NUM
+fecha: DATE
+-------------------------
+objetos: 4
+id: NUM
+denominacion: TEXT
+peso: NUM
+volumen: NUM
+-------------------------
+clientes: 4
+nombre: TEXT
+edad: NUM
+fecha: DATE
+correo: EMAIL
